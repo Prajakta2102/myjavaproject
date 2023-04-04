@@ -10,6 +10,7 @@ public class GIT {
 		int b=30;
 		int add=a+b;
 		System.out.println(add);
+		System.out.println("ended");
 
 
 	}
