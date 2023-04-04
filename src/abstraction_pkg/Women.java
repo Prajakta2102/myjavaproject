@@ -22,7 +22,7 @@ public  abstract class Women //abstract class
 		// System.out.println(a);
 		
 		char ch='P';
-		char ch1='A';
+		char ch1='B';
 		int a[]= {298,7000,880,9000};
 		int max=a[0];
 		for(int i=0;i<=a.length-1;i++)
