@@ -21,8 +21,8 @@ public  abstract class Women //abstract class
 		//getname();
 		// System.out.println(a);
 		
-		
-		/*int a[]= {298,7000,880,9000};
+		char ch='P';
+		int a[]= {298,7000,880,9000};
 		int max=a[0];
 		for(int i=0;i<=a.length-1;i++)
 		{
@@ -31,7 +31,7 @@ public  abstract class Women //abstract class
 				max=a[i];
 			}
 		}
-		System.out.println(max);*/
+		System.out.println(max);
 	}
 
 }
